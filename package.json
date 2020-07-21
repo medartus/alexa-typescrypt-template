@@ -41,7 +41,7 @@
     "ask-sdk-model": "^1.28.0",
     "i18next": "^19.5.1",
     "i18next-fs-backend": "^1.0.6",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "@types/express": "^4.17.6",
